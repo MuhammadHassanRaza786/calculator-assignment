@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+## Authors Muhammad Hassan Raza & Syed Hassan Haider zaidi
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
